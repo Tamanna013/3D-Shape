@@ -2,7 +2,7 @@
 
 This project is a simple Three.js setup that renders an animated 3D icosahedron with both solid and wireframe materials. The scene includes orbit controls for interactive viewing and a hemisphere light for illumination.<br>
 
-##Features
+## Features
 -- Three.js-powered 3D rendering<br>
 -- Interactive camera controls with OrbitControls<br>
 -- Animated icosahedron with both solid and wireframe rendering<br>
